@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run jason-app.py
+web: sh setup.sh && streamlit run fish-app.py
